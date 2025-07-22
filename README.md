@@ -64,3 +64,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 "# HIDRAMANI-STICKER-PRINTER-BACKEND-" 
 "# Hidramani-Backend" 
 "# Hidramani-printer" 
+"# Hidramani-printer" 
