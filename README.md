@@ -46,5 +46,8 @@ This is the **Laravel-based backend** for the **Hidramani Sticker Printer** syst
 - **Frontend**: Connected via [Flutter Mobile App (Separate Repository)](https://github.com/your_flutter_repo_link)
 
 
+https://github.com/EFL-3PL-Supply-Chain-Innovation/HIDRAMANI-STICKER-PRINTER/blob/main/Screenshot%202025-08-06%20125310.png
+
+
 
 
